@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+
+.Setpage{
+    background-color: aqua;
+    height: 700px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+.tableset{
+    height:100px;
+    width:500px;
+    box-shadow: 0px 0px 10px;
+    background: #a00;
+    color:white;
+}
